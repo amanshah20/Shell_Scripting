@@ -11,4 +11,4 @@ comment
 #variables..
 
 name="aman"
-echo "the name is : $name"
+echo "the name is : $name , and date $(date)"
