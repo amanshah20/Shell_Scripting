@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# week days program 
+# week days program Uisng the if else logic
 
 echo "Well Come to the program !"
 
