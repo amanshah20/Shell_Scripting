@@ -25,3 +25,4 @@ comment
 #arguments
 
 echo "the charactors are : $0 $1"
+echo "this is how we print the veriables !"
